@@ -6,7 +6,7 @@ def initialize(roster)
 end
 
 def add_student(name, grade)
-  
+  @school.roster = 
 end
 
 
