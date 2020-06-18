@@ -3,7 +3,7 @@ class School
   attr_accessor :roster, :student
 def initialize(roster)
   @student = student
-  @roster = []
+  @roster = {}
 end
 
 def add_student(name, grade)
